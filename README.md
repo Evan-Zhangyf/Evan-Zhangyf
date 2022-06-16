@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Evan-Zhangyf)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Evan-Zhangyf&column=7)](https://github.com/Evan-Zhangyf)
 
 
 <!--
